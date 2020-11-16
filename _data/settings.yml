@@ -18,7 +18,7 @@ menu:
 social:
 - {icon: 'envelope', link: 'mailto:rodrigo.cantu.hernandez@gmail.com'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/rodrigo-cantu/'}
-- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=-o_l_UQAAAAJ'}
+- {icon: 'googlescholar', link: 'https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=-o_l_UQAAAAJ'}
 # - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 # - {icon: 'rss-square', link: 'feed.xml'}
