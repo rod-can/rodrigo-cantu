@@ -1,3 +1,12 @@
+---
+layout: post
+title: "West Nile Virus Predictions"
+author: "Rodrigo Cantú"
+categories: documentation
+tags: [documentation,sample]
+image: cuba-1.jpg
+---
+
 # West Nile Virus Predictions
 
 ### Problem Statement
