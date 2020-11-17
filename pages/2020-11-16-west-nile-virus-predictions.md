@@ -1,3 +1,8 @@
+---
+layout: misc
+title: WNVP
+---
+
 # West Nile Virus Predictions
 
 ### Problem Statement
